@@ -5,7 +5,7 @@ Rudimentary rock, paper, scissors game which accepts R, S, and P inputs from use
 
 ## Notes
 * At the moment, the game only recieves **R, S,** and **P** as inputs and terminates for any other input. 
-* The game will stop running if you change tabs, as it relies on prompts, alerts, and confirmation windows to work. 
+* The game will terminate if you change tabs, as it relies on prompts, alerts, and confirmation windows to work. 
 
 ## Images of Functionality
 User input is received via prompt box
