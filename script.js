@@ -15,7 +15,7 @@ do {
     }
 
     let compVar = compHand[randomInt(3)];
-
+    alert("Computer chose " + compVar);
     const OPTIONVAR = {
         R: { win: "S", lose: "P" },
         S: { win: "P", lose: "R" },
