@@ -8,10 +8,10 @@ Rudimentary rock, paper, scissors game which accepts R, S, and P inputs from use
 * The game will stop running if you change tabs, as it relies on prompts, alerts, and confirmation windows to work. 
 
 ## Images of Functionality
-![]()
-![]()
-![]()
-![]()
+![Receiving Input](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/1-Receiving%20Input%20.png)
+![Results and Scores](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/2-Result%20and%20Scores.png)
+![Play Again Confirmation](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/3-Play%20again%20confirmation.png)
+![Loop Exit](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/4-Loop%20exit.png)
 ## Code used and thought process
 ### Variables
 ```js
