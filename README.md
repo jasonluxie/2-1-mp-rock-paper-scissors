@@ -52,6 +52,8 @@ let compHand = ["R", "P", "S"];
 function randomInt(max) {
     return Math.floor(Math.random() * max);
 }
+//Shows user what computer chose
+alert("Computer chose " + compVar);
 //Selects number 0, 1, 2
 let compVar = compHand[randomInt(3)];
 const optionVar = {
