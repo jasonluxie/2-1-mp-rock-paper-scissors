@@ -1,6 +1,9 @@
 # 2-1-mp-rock-paper-scissors
 
-## Code used and thought process.
+## Drscription
+Rudimentary rock, paper, scissors game which accepts R,S, and P inputs from user and compares it to values of computer to decides if user won, lost, or tied. Wins, losses, and ties are tracked and displayed after each comparison. 
+
+## Code used and thought process
 
 ### Variables
 
