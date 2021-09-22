@@ -24,12 +24,12 @@ Exit message displays
 ### Variables
 ```js
 userVar // user input
-compVar // randomly selects from 0 to 2
+compVar // computer input
 winVar // Tracks number of wins
 loseVar // Tracks number of Losses
 tieVar // Tracks number of ties
 optionVar = {R: {win: S, lose: P}, S: {win: P, lose R}, P {win: R, lose: S}}; //Object with win/lose comparisons
-gameRunning // 0 or 1 depending on confirm("Do you want to continue?")
+gameRunning // 0 for game loop, 1 for game exit. 
 
 ```
 
