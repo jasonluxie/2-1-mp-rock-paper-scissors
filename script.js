@@ -9,17 +9,20 @@ do {
     );
 
     let compHand = ["R", "P", "S"];
+
     function randomInt(max) {
         return Math.floor(Math.random() * max);
     }
+
     let compVar = compHand[randomInt(3)];
-    const optionVar = {
+
+    const OPTIONVAR = {
         R: { win: "S", lose: "P" },
         S: { win: "P", lose: "R" },
         P: { win: "R", lose: "S" },
     };
 
-    if (optionVar[userVar].win == compVar) {
+    if (OPTIONVAR[userVar].win == compVar) {
         winVar++;
         alert(
             "You win! " +
@@ -30,7 +33,7 @@ do {
                 ", ties: " +
                 tieVar
         );
-    } else if (optionVar[userVar].lose == compVar) {
+    } else if (OPTIONVAR[userVar].lose == compVar) {
         loseVar++;
         alert(
             "You lose! " +
