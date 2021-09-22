@@ -9,16 +9,16 @@ Rudimentary rock, paper, scissors game which accepts R, S, and P inputs from use
 
 ## Images of Functionality
 User input is received via prompt box
-![Receiving Input](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/1-Receiving%20Input%20.png)
+<kbd>![Receiving Input](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/1-Receiving%20Input%20.png)</kbd>
 
 Result is shown and tallied
-![Results and Scores](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/2-Result%20and%20Scores.png)
+<kbd>![Results and Scores](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/2-Result%20and%20Scores.png)</kbd>
 
 Play again confirmation
-![Play Again Confirmation](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/3-Play%20again%20confirmation.png)
+<kbd>![Play Again Confirmation](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/3-Play%20again%20confirmation.png)</kbd>
 
 Exit message displays
-![Loop Exit](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/4-Loop%20exit.png)
+<kbd>![Loop Exit](https://github.com/jasonluxie/2-1-mp-rock-paper-scissors/blob/main/assets/4-Loop%20exit.png)</kbd>
 
 ## Code used and thought process
 ### Variables
