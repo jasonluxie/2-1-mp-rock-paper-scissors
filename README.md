@@ -2,7 +2,8 @@
 
 ## Description
 Rudimentary rock, paper, scissors game which accepts R, S, and P inputs from user and compares it to values of computer to decides if user won, lost, or tied. Wins, losses, and ties are tracked and displayed after each comparison. 
-
+## Deployed Page:
+https://jasonluxie.github.io/2-1-mp-rock-paper-scissors/
 ## Notes
 * At the moment, the game only recieves **R, S,** and **P** as inputs and terminates for any other input. 
 * The game will terminate if you change tabs, as it relies on prompts, alerts, and confirmation windows to work. 
