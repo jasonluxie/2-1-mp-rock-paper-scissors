@@ -4,7 +4,7 @@
 Rudimentary rock, paper, scissors game which accepts R, S, and P inputs from user and compares it to values of computer to decides if user won, lost, or tied. Wins, losses, and ties are tracked and displayed after each comparison. 
 
 ## Notes
-* At the moment, the game only recieves **R, S,** and **P** as inputs. 
+* At the moment, the game only recieves **R, S,** and **P** as inputs and terminates for any other input. 
 * The game will stop running if you change tabs, as it relies on prompts, alerts, and confirmation windows to work. 
 
 ## Images of Functionality
@@ -118,3 +118,6 @@ if (gameStatus == 1) {
     alert("Thanks for playing!");
 }
 ```
+## To Do
+* Add processing for user input so that the user can input strings such as "rock", "Rock", "r".
+* Add user input validation so that wrong inputs return the user input prompt instead of terminating the game. 
