@@ -28,7 +28,7 @@ compVar // computer input
 winVar // Tracks number of wins
 loseVar // Tracks number of Losses
 tieVar // Tracks number of ties
-optionVar = {R: {win: S, lose: P}, S: {win: P, lose R}, P {win: R, lose: S}}; //Object with win/lose comparisons
+optionVar = {R: {win: S, lose: P}, S: {win: P, lose: R}, P {win: R, lose: S}}; //Object with win/lose comparisons
 gameRunning // 0 for game loop, 1 for game exit. 
 
 ```
